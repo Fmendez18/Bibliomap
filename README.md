@@ -55,7 +55,7 @@ venv\Scripts\activate        # Windows
 
 # Further improvements
 1. Create a user identification option, so that the user can not book multiple seats per day.
-2. 
+2. Limit the amoun
 
 # Credits
 This project was created for our **Algorithms and Data Structures** course at **IE University**.  
