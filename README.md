@@ -3,18 +3,13 @@ Application designed to view the availability of IE University's libraries
 
 # Table of Contents
 1. [Introduction](#introduction)
-2. [Installation & Usage](#installation--usage)
-3. [Further Improvements](#further-improvements)
-4. [Credits](#credits)
+2. [File architecture](#file-architecture)
+3. [Installation of the project](#installation-of-the-project)
+4. [Usage](#usage)
+5. [Further improvements](#further-improvements)
+6. [Credits](#credits)
 
-## Introduction
-...
-## Installation & Usage
-...
-## Further Improvements
-...
-## Credits
-...
+---
 
 # Introduction
 
@@ -27,3 +22,4 @@ Application designed to view the availability of IE University's libraries
 # Further improvements
 
 # Credits
+
