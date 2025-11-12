@@ -52,6 +52,9 @@ venv\Scripts\activate        # Windows
 ```
 
 # Usage
+```bash
+python booking_main.py
+```
 
 # Further improvements
 1. Create a user identification option, so that the user can not book multiple seats per day.
