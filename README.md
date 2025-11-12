@@ -39,11 +39,14 @@ BIBLIOMAP is a web app built to help university students in Madrid quickly find 
 #### 1. Clone the repository
 ```bash
 git clone https://github.com/yourusername/Bibliomap.git
-
+```
+```bash
 cd Bibliomap
-
+```
+```bash
 python3 -m venv ./venv
-
+```
+```bash
 source ./venv/bin/activate   # macOS/Linux
 venv\Scripts\activate        # Windows
 ```
