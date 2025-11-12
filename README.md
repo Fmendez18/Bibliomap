@@ -31,9 +31,7 @@ BIBLIOMAP is a web app built to help university students in Madrid quickly find 
 - **Library cooperation:** Real libraries may not share data or allow integrations.  
 - **Adoption by students:** Even if the system works, habit change can be slow.  
 - **Infrastructure limits:** Wi-Fi, server outages, or app-store policies could block usage.
-  
-# File architecture
-
+- 
 # Installation of the project
 
 #### 1. Clone the repository
@@ -58,7 +56,7 @@ python booking_main.py
 
 # Further improvements
 1. Create a user identification option, so that the user can not book multiple seats per day.
-2. Limit the amoun
+2. Limit the amount of hours the user can book per day.
 
 # Credits
 This project was created for our **Algorithms and Data Structures** course at **IE University**.  
