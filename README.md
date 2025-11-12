@@ -20,6 +20,7 @@ Application designed to view the availability of IE University's libraries
 # Usage
 
 # Further improvements
+1. Create a user identification option, so that the user can not book multiple seats per day.
 
 # Credits
 
