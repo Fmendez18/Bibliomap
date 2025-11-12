@@ -18,7 +18,7 @@ BIBLIOMAP is a web app built to help university students in Madrid quickly find 
 1. **Access & Preferences:** The student opens the web app, selects a library, and desired time window.
 2. **Availability & Ranking:** BIBLIOMAP fetches **real-time seat availability** surfacing the **best options first**.
 3. **Reserve & Confirm:** The student chooses a seat and confirms; the system **books the seat** and shows confirmation details.
-4. 4. **Use the Seat → Cancel/Release on Exit:** When the student finishes early or leaves, they **tap “Cancel/Release”** to free the seat immediately for others. 
+4. **Use the Seat → Cancel/Release on Exit:** When the student finishes early or leaves, they **tap “Cancel/Release”** to free the seat immediately for others. 
 5. **Manage & Iterate:** Users can modify/cancel reservations and **re-run the search** to get new matches.
 6. **Premium (optional):** Students can **upgrade** to unlock premium features (e.g., priority booking windows, multi-slot reservations, advanced filters).
 
