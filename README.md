@@ -44,4 +44,12 @@ BIBLIOMAP is a web app built to help university students in Madrid quickly find 
 2. 
 
 # Credits
+This project was created for our **Algorithms and Data Structures** course at **IE University**.  
+The project was created by:
 
+- Karim Junadi
+- Santiago Landínez
+- Carolina Leyenda
+- Zoe Mekin
+- Federico Méndez
+- Carla Palmés
