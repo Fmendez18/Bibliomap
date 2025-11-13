@@ -57,6 +57,7 @@ python booking_main.py
 # Further improvements
 1. Create a user identification option, so that the user can not book multiple seats per day.
 2. Limit the amount of hours the user can book per day.
+3. Add function that, after the study-time desired has passed, liberates the seat that user had booked, without them having to visit the app again to state they have left.
 
 # Credits
 This project was created for our **Algorithms and Data Structures** course at **IE University**.  
