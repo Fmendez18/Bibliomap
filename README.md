@@ -36,7 +36,7 @@ BIBLIOMAP is a web app built to help university students in Madrid quickly find 
 
 #### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/Bibliomap.git
+git clone https://github.com/Fmendez/Bibliomap.git
 ```
 ```bash
 cd Bibliomap
