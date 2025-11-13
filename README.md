@@ -38,7 +38,7 @@ This project is supposed to be ran on the terminal of the computer
 
 #### 1. Clone the repository
 ```bash
-git clone https://github.com/Fmendez/Bibliomap.git
+git clone https://github.com/Fmendez18/Bibliomap.git
 ```
 ```bash
 cd Bibliomap
