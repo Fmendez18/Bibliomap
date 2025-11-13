@@ -71,3 +71,4 @@ The project was created by:
 - Zoe Mekin
 - Federico Méndez
 - Carla Palmés
+- Sofía Paparo
