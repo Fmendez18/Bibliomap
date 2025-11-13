@@ -53,7 +53,7 @@ venv\Scripts\activate        # Windows
 
 # Usage
 ```bash
-python booking_main.py
+python code_bibliomap.py
 ```
 
 # Further improvements
