@@ -11,7 +11,7 @@ Application designed to view the availability of IE University's libraries
 ---
 
 # Introduction
-BIBLIOMAP is a web app built to help university students in Madrid quickly find and reserve library study seats in real time. Instead of wasting time walking to a full library, students can check live availability, pick a time slot and seat type, and confirm a reservation, directly from their phone or laptop. Libraries benefit from smoother demand management and simple usage insights. ATTRIBUTES????
+BIBLIOMAP is a web app built to help university students in Madrid quickly find and reserve library study seats in real time. Instead of wasting time walking to a full library, students can check live availability, pick a time slot and seat type, and confirm a reservation, directly from their phone or laptop. Libraries benefit from smoother demand management and simple usage insights. So far, the algorithm uses `Seat`, Safety and Price range as attributes for determining the ideal neighbourhood.
 
 ## User Journey 
 1. **Access & Preferences:** The student opens the web app, selects a library, and desired time window.
