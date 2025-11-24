@@ -67,7 +67,7 @@ From there, they can select a different library to view its seating arrangement 
 - **Library cooperation:** Real libraries may not share data or allow integrations.  
 - **Adoption by students:** Even if the system works, habit change can be slow.  
 - **Infrastructure limits:** Wi-Fi, server outages, or app-store policies could block usage.
-- 
+  
 # Installation of the project
 
 This project is supposed to be ran on the terminal of the computer
